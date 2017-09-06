@@ -1,0 +1,254 @@
+2017-08-22 18:00:30 [2@SP-TI-A-C01]
+  *** MySQL query error:
+  SQL: SELECT COUNT(glpi_tickets.id) as total        
+      FROM glpi_tickets
+      LEFT JOIN glpi_entities ON glpi_tickets.entities_id = glpi_entities.id
+      WHERE glpi_tickets.is_deleted = \'0\' 
+      AND DATE_FORMAT( glpi_tickets.date, \'%Y\' ) IN () 
+      AND glpi_tickets.entities_id IN (0) 
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') 
+      AND glpi_tickets.entities_id IN (0)' at line 5
+  Backtrace :
+  plugins\dashboard\front\main.php:270               
+2017-08-22 18:00:48 [2@SP-TI-A-C01]
+  *** MySQL query error:
+  SQL: SELECT COUNT(glpi_tickets.id) as total        
+      FROM glpi_tickets
+      LEFT JOIN glpi_entities ON glpi_tickets.entities_id = glpi_entities.id
+      WHERE glpi_tickets.is_deleted = \'0\' 
+      AND DATE_FORMAT( glpi_tickets.date, \'%Y\' ) IN () 
+      AND glpi_tickets.entities_id IN (0) 
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') 
+      AND glpi_tickets.entities_id IN (0)' at line 5
+  Backtrace :
+  plugins\dashboard\front\main.php:270               
+2017-08-22 18:01:26 [2@SP-TI-A-C01]
+  *** MySQL query error:
+  SQL: SELECT COUNT(glpi_tickets.id) as total        
+      FROM glpi_tickets
+      LEFT JOIN glpi_entities ON glpi_tickets.entities_id = glpi_entities.id
+      WHERE glpi_tickets.is_deleted = \'0\' 
+      AND DATE_FORMAT( glpi_tickets.date, \'%Y\' ) IN () 
+      AND glpi_tickets.entities_id IN (0) 
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') 
+      AND glpi_tickets.entities_id IN (0)' at line 5
+  Backtrace :
+  plugins\dashboard\front\main.php:270               
+2017-08-22 18:01:43 [2@SP-TI-A-C01]
+  *** MySQL query error:
+  SQL: SELECT COUNT(glpi_tickets.id) as total        
+      FROM glpi_tickets
+      LEFT JOIN glpi_entities ON glpi_tickets.entities_id = glpi_entities.id
+      WHERE glpi_tickets.is_deleted = \'0\' 
+      AND DATE_FORMAT( glpi_tickets.date, \'%Y\' ) IN () 
+      AND glpi_tickets.entities_id IN (0) 
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') 
+      AND glpi_tickets.entities_id IN (0)' at line 5
+  Backtrace :
+  plugins\dashboard\front\main.php:270               
+2017-08-22 18:01:49 [2@SP-TI-A-C01]
+  *** MySQL query error:
+  SQL: SELECT COUNT(glpi_tickets.id) as total        
+      FROM glpi_tickets
+      LEFT JOIN glpi_entities ON glpi_tickets.entities_id = glpi_entities.id
+      WHERE glpi_tickets.is_deleted = \'0\' 
+      AND DATE_FORMAT( glpi_tickets.date, \'%Y\' ) IN () 
+      AND glpi_tickets.entities_id IN (0) 
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') 
+      AND glpi_tickets.entities_id IN (0)' at line 5
+  Backtrace :
+  plugins\dashboard\front\main.php:270               
+2017-08-22 18:01:52 [2@SP-TI-A-C01]
+  *** MySQL query error:
+  SQL: SELECT COUNT(glpi_tickets.id) as total        
+      FROM glpi_tickets
+      LEFT JOIN glpi_entities ON glpi_tickets.entities_id = glpi_entities.id
+      WHERE glpi_tickets.is_deleted = \'0\' 
+      AND DATE_FORMAT( glpi_tickets.date, \'%Y\' ) IN () 
+      AND glpi_tickets.entities_id IN (0) 
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') 
+      AND glpi_tickets.entities_id IN (0)' at line 5
+  Backtrace :
+  plugins\dashboard\front\main.php:270               
+2017-08-22 18:01:53 [2@SP-TI-A-C01]
+  *** MySQL query error:
+  SQL: SELECT COUNT(glpi_tickets.id) as total        
+      FROM glpi_tickets
+      LEFT JOIN glpi_entities ON glpi_tickets.entities_id = glpi_entities.id
+      WHERE glpi_tickets.is_deleted = \'0\' 
+      AND DATE_FORMAT( glpi_tickets.date, \'%Y\' ) IN () 
+      AND glpi_tickets.entities_id IN (0) 
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') 
+      AND glpi_tickets.entities_id IN (0)' at line 5
+  Backtrace :
+  plugins\dashboard\front\main.php:270               
+2017-08-22 18:44:27 [2@SP-TI-A-C01]
+  *** MySQL query error:
+  SQL: SELECT COUNT(glpi_tickets.id) as total        
+      FROM glpi_tickets
+      LEFT JOIN glpi_entities ON glpi_tickets.entities_id = glpi_entities.id
+      WHERE glpi_tickets.is_deleted = \'0\' 
+      AND DATE_FORMAT( glpi_tickets.date, \'%Y\' ) IN () 
+      AND glpi_tickets.entities_id IN (0) 
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') 
+      AND glpi_tickets.entities_id IN (0)' at line 5
+  Backtrace :
+  plugins\dashboard\front\main.php:270               
+2017-08-22 18:44:39 [2@SP-TI-A-C01]
+  *** MySQL query error:
+  SQL: SELECT COUNT(glpi_tickets.id) as total        
+      FROM glpi_tickets
+      LEFT JOIN glpi_entities ON glpi_tickets.entities_id = glpi_entities.id
+      WHERE glpi_tickets.is_deleted = \'0\' 
+      AND DATE_FORMAT( glpi_tickets.date, \'%Y\' ) IN () 
+      AND glpi_tickets.entities_id IN (0) 
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') 
+      AND glpi_tickets.entities_id IN (0)' at line 5
+  Backtrace :
+  plugins\dashboard\front\main.php:270               
+2017-08-22 18:44:48 [2@SP-TI-A-C01]
+  *** MySQL query error:
+  SQL: SELECT DISTINCT gi.id, gi.name
+			FROM glpi_s gi, glpi_items_tickets git, glpi_tickets gt
+			WHERE gi.is_deleted = 0
+			AND gi.id = git.items_id
+			AND git.itemtype = \'\'
+			AND gi.entities_id IN (0) 
+			AND gt.id = git.tickets_id
+			AND gt.date BETWEEN \'2017-08-01 00:00:00\' AND \'2017-08-22 23:59:59\'
+			ORDER BY gi.name 
+  Error: Table 'glpi.glpi_s' doesn't exist
+  Backtrace :
+  plugins\dashboard\front\reports\rel_assets.php:298 
+2017-08-22 18:44:58 [2@SP-TI-A-C01]
+  *** MySQL query error:
+  SQL: SELECT COUNT(glpi_tickets.id) as total        
+      FROM glpi_tickets
+      LEFT JOIN glpi_entities ON glpi_tickets.entities_id = glpi_entities.id
+      WHERE glpi_tickets.is_deleted = \'0\' 
+      AND DATE_FORMAT( glpi_tickets.date, \'%Y\' ) IN () 
+      AND glpi_tickets.entities_id IN (0) 
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') 
+      AND glpi_tickets.entities_id IN (0)' at line 5
+  Backtrace :
+  plugins\dashboard\front\main.php:270               
+2017-08-22 19:40:37 [2@SP-TI-A-C01]
+  *** MySQL query error:
+  SQL: SELECT COUNT(glpi_tickets.id) as total        
+      FROM glpi_tickets
+      LEFT JOIN glpi_entities ON glpi_tickets.entities_id = glpi_entities.id
+      WHERE glpi_tickets.is_deleted = \'0\' 
+      AND DATE_FORMAT( glpi_tickets.date, \'%Y\' ) IN () 
+      AND glpi_tickets.entities_id IN (0) 
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') 
+      AND glpi_tickets.entities_id IN (0)' at line 5
+  Backtrace :
+  plugins\dashboard\front\main.php:270               
+2017-08-23 22:12:19 [2@SP-TI-A-C01]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  plugins\dashboard\front\reports\rel_data.php:165   
+2017-08-23 22:12:27 [2@SP-TI-A-C01]
+  *** MySQL query error:
+  SQL: 
+  Error: 
+  Backtrace :
+  plugins\dashboard\front\reports\rel_data.php:165   
+2017-08-25 14:20:38 [438@SP-TI-A-C01]
+  *** MySQL query error:
+  SQL: INSERT
+                   INTO `glpi_locations` (`entities_id`,`is_recursive`,`name`,`comment`,`locations_id`,`building`,`room`,`longitude`,`latitude`,`altitude`,`level`,`completename`,`date_creation`,`date_mod`) VALUES (\'0\',\'0\',\'EQUIPO FUNCIONAL DE PLANEAMIENTO, PRESUPUESTO Y MODERNIZACIÓN\',\'\',0,\'\',\'\',\'\',\'\',\'\',\'1\',\'EQUIPO FUNCIONAL DE PLANEAMIENTO, PRESUPUESTO Y MODERNIZACIÓN\',\'2017-08-25 14:20:38\',\'2017-08-25 14:20:38\')
+  Error: Duplicate entry '0-0-EQUIPO FUNCIONAL DE PLANEAMIENTO, PRESUPUESTO Y MODERNIZACI' for key 'unicity'
+  Backtrace :
+  inc\commondbtm.class.php:436                       
+  inc\commondbtm.class.php:852                       CommonDBTM->addToDB()
+  front\dropdown.common.form.php:56                  CommonDBTM->add()
+  front\location.form.php:41                         include()
+2017-08-29 23:03:58 [438@SP-TI-A-C10]
+  *** MySQL query error:
+  SQL: SHOW CREATE TABLE `glpi_plugin_dashboard_config`
+  Error: Table 'glpi.glpi_plugin_dashboard_config' doesn't exist in engine
+  Backtrace :
+  front\backup.php:201                               
+  front\backup.php:372                               get_def()
+  front\backup.php:494                               backupMySql()
+2017-09-01 00:38:54 [438@SP-TI-A-C10]
+  *** MySQL query error:
+  SQL: SELECT value FROM glpi_plugin_dashboard_config WHERE name = \'layout\' AND users_id = 438 
+  Error: Table 'glpi.glpi_plugin_dashboard_config' doesn't exist in engine
+  Backtrace :
+  plugins\dashboard\front\index.php:12               
+2017-09-01 00:38:54 [438@SP-TI-A-C10]
+  *** MySQL query error:
+  SQL: SELECT value FROM glpi_plugin_dashboard_config WHERE name = \'entity\' AND users_id = 438
+  Error: Table 'glpi.glpi_plugin_dashboard_config' doesn't exist in engine
+  Backtrace :
+  plugins\dashboard\front\index1.php:12              
+2017-09-01 00:38:54 [438@SP-TI-A-C10]
+  *** MySQL query error:
+  SQL: SELECT value FROM glpi_plugin_dashboard_config WHERE name = \'num_years\' AND users_id = 438
+  Error: Table 'glpi.glpi_plugin_dashboard_config' doesn't exist in engine
+  Backtrace :
+  plugins\dashboard\front\index1.php:28              
+2017-09-01 00:38:54 [438@SP-TI-A-C10]
+  *** MySQL query error:
+  SQL: SELECT value FROM glpi_plugin_dashboard_config WHERE name = \'theme\' AND users_id = 438
+  Error: Table 'glpi.glpi_plugin_dashboard_config' doesn't exist in engine
+  Backtrace :
+  plugins\dashboard\front\index1.php:37              
+2017-09-01 00:38:54 [438@SP-TI-A-C10]
+  *** MySQL query error:
+  SQL: SELECT value FROM glpi_plugin_dashboard_config WHERE name = \'back\' AND users_id = 438
+  Error: Table 'glpi.glpi_plugin_dashboard_config' doesn't exist in engine
+  Backtrace :
+  plugins\dashboard\front\index1.php:52              
+2017-09-01 00:38:54 [438@SP-TI-A-C10]
+  *** MySQL query error:
+  SQL: SELECT value FROM glpi_plugin_dashboard_config WHERE name = \'charts_colors\' AND users_id = 438
+  Error: Table 'glpi.glpi_plugin_dashboard_config' doesn't exist in engine
+  Backtrace :
+  plugins\dashboard\front\index1.php:63              
+2017-09-01 00:38:54 [438@SP-TI-A-C10]
+  *** MySQL query error:
+  SQL: SELECT value FROM glpi_plugin_dashboard_config WHERE name = \'update\'
+  Error: Table 'glpi.glpi_plugin_dashboard_config' doesn't exist in engine
+  Backtrace :
+  plugins\dashboard\front\index1.php:118             
+2017-09-01 00:38:55 [438@SP-TI-A-C10]
+  *** MySQL query error:
+  SQL: SELECT value FROM glpi_plugin_dashboard_config WHERE name = \'entity\' AND users_id = 438
+  Error: Table 'glpi.glpi_plugin_dashboard_config' doesn't exist in engine
+  Backtrace :
+  plugins\dashboard\front\main.php:12                
+2017-09-01 00:38:55 [438@SP-TI-A-C10]
+  *** MySQL query error:
+  SQL: SELECT value FROM glpi_plugin_dashboard_config WHERE name = \'num_years\' AND users_id = 438
+  Error: Table 'glpi.glpi_plugin_dashboard_config' doesn't exist in engine
+  Backtrace :
+  plugins\dashboard\front\main.php:43                
+2017-09-01 00:38:55 [438@SP-TI-A-C10]
+  *** MySQL query error:
+  SQL: SELECT value FROM glpi_plugin_dashboard_config WHERE name = \'theme\' AND users_id = 438
+  Error: Table 'glpi.glpi_plugin_dashboard_config' doesn't exist in engine
+  Backtrace :
+  plugins\dashboard\front\main.php:52                
+2017-09-01 00:38:55 [438@SP-TI-A-C10]
+  *** MySQL query error:
+  SQL: SELECT value FROM glpi_plugin_dashboard_config WHERE name = \'back\' AND users_id = 438
+  Error: Table 'glpi.glpi_plugin_dashboard_config' doesn't exist in engine
+  Backtrace :
+  plugins\dashboard\front\main.php:66                
+2017-09-01 00:38:55 [438@SP-TI-A-C10]
+  *** MySQL query error:
+  SQL: SELECT value FROM glpi_plugin_dashboard_config WHERE name = \'info\' AND users_id = 438 
+  Error: Table 'glpi.glpi_plugin_dashboard_config' doesn't exist in engine
+  Backtrace :
+  plugins\dashboard\front\main.php:399               
+2017-09-01 00:39:17 [438@SP-TI-A-C10]
+  *** MySQL query error:
+  SQL: SELECT value FROM glpi_plugin_dashboard_config WHERE name = \'entity\' AND users_id = 438
+  Error: Table 'glpi.glpi_plugin_dashboard_config' doesn't exist in engine
+  Backtrace :
+  plugins\dashboard\front\graphs\graf_tech.php:85    

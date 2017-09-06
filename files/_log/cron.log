@@ -1,0 +1,1054 @@
+2017-08-22 17:33:25 [@SP-TI-A-C01]
+Interno #1: Lanzar createinquest
+2017-08-22 17:35:00 [@SP-TI-A-C01]
+Interno #1: Lanzar watcher
+2017-08-22 17:39:07 [@SP-TI-A-C01]
+Interno #1: Lanzar ticketrecurrent
+2017-08-22 17:59:15 [2@SP-TI-A-C01]
+Interno #1: Lanzar planningrecall
+2017-08-22 18:15:33 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-22 18:16:39 [2@SP-TI-A-C01]
+Interno #1: Lanzar queuedmailclean
+2017-08-22 18:41:29 [2@SP-TI-A-C01]
+Interno #1: Lanzar temp
+2017-08-22 18:53:05 [2@SP-TI-A-C01]
+Interno #1: Lanzar mailgateerror
+2017-08-22 18:54:17 [@SP-TI-A-C01]
+Interno #1: Lanzar contract
+2017-08-22 18:58:40 [2@SP-TI-A-C01]
+Interno #1: Lanzar infocom
+2017-08-22 19:00:22 [2@SP-TI-A-C01]
+Interno #1: Lanzar optimize
+2017-08-22 19:04:03 [2@SP-TI-A-C01]
+Interno #1: Lanzar mailgate
+2017-08-22 19:10:58 [2@SP-TI-A-C01]
+Interno #1: Lanzar session
+2017-08-22 19:17:42 [6@SP-TI-A-C01]
+Interno #1: Lanzar graph
+2017-08-22 19:18:30 [2@SP-TI-A-C01]
+Interno #1: Lanzar reservation
+2017-08-22 19:24:28 [2@SP-TI-A-C01]
+Interno #1: Lanzar closeticket
+2017-08-22 19:29:16 [6@SP-TI-A-C01]
+Interno #1: Lanzar alertnotclosed
+2017-08-22 19:29:30 [2@SP-TI-A-C01]
+Interno #1: Lanzar slaticket
+2017-08-22 19:34:51 [2@SP-TI-A-C01]
+Interno #1: Lanzar planningrecall
+2017-08-22 19:40:12 [2@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-22 19:48:31 [2@SP-TI-A-C01]
+Interno #1: Lanzar ticketrecurrent
+2017-08-22 19:52:34 [6@SP-TI-A-C01]
+Interno #1: Lanzar mailgate
+2017-08-22 19:54:14 [2@SP-TI-A-C01]
+Interno #1: Lanzar slaticket
+2017-08-22 20:01:12 [6@SP-TI-A-C01]
+Interno #1: Lanzar planningrecall
+2017-08-22 20:06:20 [6@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-22 20:06:22 [@SP-TI-A-C01]
+Interno #1: Lanzar temp
+2017-08-22 21:24:18 [2@SP-TI-A-C01]
+Interno #1: Lanzar slaticket
+2017-08-22 21:25:51 [2@SP-TI-A-C01]
+Interno #1: Lanzar mailgate
+2017-08-22 21:28:46 [6@SP-TI-A-C01]
+Interno #1: Lanzar planningrecall
+2017-08-22 21:29:58 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-22 21:30:01 [@SP-TI-A-C01]
+Interno #1: Lanzar graph
+2017-08-22 21:30:02 [@SP-TI-A-C01]
+Interno #1: Lanzar reservation
+2017-08-22 21:30:13 [@SP-TI-A-C01]
+Interno #1: Lanzar ticketrecurrent
+2017-08-22 21:37:08 [@SP-TI-A-C01]
+Interno #1: Lanzar temp
+2017-08-22 21:40:01 [@SP-TI-A-C01]
+Interno #1: Lanzar slaticket
+2017-08-22 21:47:52 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-22 21:47:53 [@SP-TI-A-C01]
+Interno #1: Lanzar planningrecall
+2017-08-22 21:49:24 [@SP-TI-A-C01]
+Interno #1: Lanzar mailgate
+2017-08-22 21:50:01 [@SP-TI-A-C01]
+Interno #1: Lanzar slaticket
+2017-08-22 21:50:26 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-22 21:59:38 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-22 22:01:15 [@SP-TI-A-C01]
+Interno #1: Lanzar planningrecall
+2017-08-22 22:01:58 [@SP-TI-A-C01]
+Interno #1: Lanzar slaticket
+2017-08-22 22:02:00 [@SP-TI-A-C01]
+Interno #1: Lanzar mailgate
+2017-08-22 22:02:01 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-22 22:02:04 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-22 22:02:04 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-22 22:02:05 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-22 22:02:09 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-22 22:02:57 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-22 22:04:08 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-22 22:04:09 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-22 22:04:09 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-22 22:05:21 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-22 22:05:22 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-22 22:05:22 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-22 22:09:03 [@SP-TI-A-C01]
+Interno #1: Lanzar slaticket
+2017-08-22 22:09:20 [@SP-TI-A-C01]
+Interno #1: Lanzar planningrecall
+2017-08-22 22:10:33 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-22 22:12:29 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-22 22:12:53 [@SP-TI-A-C01]
+Interno #1: Lanzar mailgate
+2017-08-22 22:29:46 [6@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-22 22:34:49 [6@SP-TI-A-C01]
+Interno #1: Lanzar slaticket
+2017-08-22 22:45:26 [@SP-TI-A-C01]
+Interno #1: Lanzar planningrecall
+2017-08-22 22:45:27 [@SP-TI-A-C01]
+Interno #1: Lanzar mailgate
+2017-08-22 22:45:36 [6@SP-TI-A-C01]
+Interno #1: Lanzar graph
+2017-08-22 22:51:39 [6@SP-TI-A-C01]
+Interno #1: Lanzar reservation
+2017-08-22 22:56:43 [6@SP-TI-A-C01]
+Interno #1: Lanzar ticketrecurrent
+2017-08-22 22:57:37 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-22 22:57:49 [@SP-TI-A-C01]
+Interno #1: Lanzar temp
+2017-08-22 23:21:46 [2@SP-TI-A-C01]
+Interno #1: Lanzar slaticket
+2017-08-22 23:43:31 [2@SP-TI-A-C01]
+Interno #1: Lanzar planningrecall
+2017-08-22 23:48:50 [2@SP-TI-A-C01]
+Interno #1: Lanzar mailgate
+2017-08-23 00:04:31 [2@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-23 00:08:56 [@SP-TI-A-C01]
+Interno #1: Lanzar slaticket
+2017-08-23 00:08:57 [@SP-TI-A-C01]
+Interno #1: Lanzar graph
+2017-08-23 00:08:58 [@SP-TI-A-C01]
+Interno #1: Lanzar planningrecall
+2017-08-23 00:08:58 [@SP-TI-A-C01]
+Interno #1: Lanzar reservation
+2017-08-23 00:08:59 [@SP-TI-A-C01]
+Interno #1: Lanzar ticketrecurrent
+2017-08-23 00:08:59 [@SP-TI-A-C01]
+Interno #1: Lanzar temp
+2017-08-23 00:09:02 [@SP-TI-A-C01]
+Interno #1: Lanzar mailgate
+2017-08-23 00:09:04 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-23 00:09:19 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-23 00:09:40 [2@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-23 00:12:10 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-23 00:15:20 [2@SP-TI-A-C01]
+Interno #1: Lanzar slaticket
+2017-08-23 00:20:06 [@SP-TI-A-C01]
+Interno #1: Lanzar planningrecall
+2017-08-23 00:20:07 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-23 00:20:26 [@SP-TI-A-C01]
+Interno #1: Lanzar mailgate
+2017-08-23 00:20:37 [2@SP-TI-A-C01]
+Interno #1: Lanzar slaticket
+2017-08-23 00:29:28 [2@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-23 00:34:59 [2@SP-TI-A-C01]
+Interno #1: Lanzar slaticket
+2017-08-23 00:37:05 [@SP-TI-A-C01]
+Interno #1: Lanzar planningrecall
+2017-08-23 00:37:06 [@SP-TI-A-C01]
+Interno #1: Lanzar mailgate
+2017-08-23 00:37:07 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-23 00:37:07 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-23 00:37:46 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-23 00:40:55 [2@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-23 00:44:38 [@SP-TI-A-C01]
+Interno #1: Lanzar slaticket
+2017-08-23 00:49:07 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-23 00:49:27 [@SP-TI-A-C01]
+Interno #1: Lanzar planningrecall
+2017-08-23 00:50:33 [2@SP-TI-A-C01]
+Interno #1: Lanzar mailgate
+2017-08-23 00:52:43 [@SP-TI-A-C01]
+Interno #1: Lanzar slaticket
+2017-08-23 15:34:18 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-23 15:42:29 [2@SP-TI-A-C01]
+Interno #1: Lanzar planningrecall
+2017-08-23 15:46:17 [@SP-TI-A-C01]
+Interno #1: Lanzar slaticket
+2017-08-23 15:46:43 [@SP-TI-A-C01]
+Interno #1: Lanzar mailgate
+2017-08-23 15:50:46 [@SP-TI-A-C01]
+Interno #1: Lanzar graph
+2017-08-23 15:50:54 [2@SP-TI-A-C01]
+Interno #1: Lanzar reservation
+2017-08-23 16:01:13 [2@SP-TI-A-C01]
+Interno #1: Lanzar ticketrecurrent
+2017-08-23 16:14:12 [2@SP-TI-A-C01]
+Interno #1: Lanzar temp
+2017-08-23 16:14:22 [@SP-TI-A-C01]
+Interno #1: Lanzar closeticket
+2017-08-23 16:14:25 [@SP-TI-A-C01]
+Interno #1: Lanzar alertnotclosed
+2017-08-23 16:22:29 [2@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-23 16:27:14 [@SP-TI-A-C01]
+Interno #1: Lanzar planningrecall
+2017-08-23 16:27:43 [@SP-TI-A-C01]
+Interno #1: Lanzar slaticket
+2017-08-23 16:27:47 [2@SP-TI-A-C01]
+Interno #1: Lanzar mailgate
+2017-08-23 16:38:48 [2@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-23 16:47:24 [2@SP-TI-A-C01]
+Interno #1: Lanzar slaticket
+2017-08-23 17:00:58 [2@SP-TI-A-C01]
+Interno #1: Lanzar planningrecall
+2017-08-23 17:23:56 [@SP-TI-A-C01]
+Interno #1: Lanzar mailgate
+2017-08-23 17:29:17 [3@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-23 17:32:06 [@SP-TI-A-C01]
+Interno #1: Lanzar graph
+2017-08-23 17:32:21 [@SP-TI-A-C01]
+Interno #1: Lanzar reservation
+2017-08-23 17:38:18 [2@SP-TI-A-C01]
+Interno #1: Lanzar slaticket
+2017-08-23 17:51:31 [2@SP-TI-A-C01]
+Interno #1: Lanzar ticketrecurrent
+2017-08-23 17:51:46 [3@SP-TI-A-C01]
+Interno #1: Lanzar planningrecall
+2017-08-23 17:53:17 [@SP-TI-A-C01]
+Interno #1: Lanzar temp
+2017-08-23 17:53:28 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-23 17:53:36 [@SP-TI-A-C01]
+Interno #1: Lanzar mailgate
+2017-08-23 17:53:37 [@SP-TI-A-C01]
+Interno #1: Lanzar createinquest
+2017-08-23 17:53:38 [@SP-TI-A-C01]
+Interno #1: Lanzar watcher
+2017-08-23 17:53:46 [@SP-TI-A-C01]
+Interno #1: Lanzar slaticket
+2017-08-23 17:53:49 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-23 17:53:50 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-23 17:53:50 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-23 17:53:51 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-23 17:54:03 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-23 17:54:03 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-23 17:54:04 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-23 17:54:04 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-23 17:58:11 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-23 17:58:23 [2@SP-TI-A-C01]
+Interno #1: Lanzar planningrecall
+2017-08-23 17:59:14 [@SP-TI-A-C01]
+Interno #1: Lanzar slaticket
+2017-08-23 18:27:57 [2@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-23 18:29:54 [@SP-TI-A-C01]
+Interno #1: Lanzar mailgate
+2017-08-23 18:32:59 [2@SP-TI-A-C01]
+Interno #1: Lanzar planningrecall
+2017-08-23 18:38:17 [2@SP-TI-A-C01]
+Interno #1: Lanzar slaticket
+2017-08-23 18:47:08 [2@SP-TI-A-C01]
+Interno #1: Lanzar queuedmailclean
+2017-08-23 18:52:26 [2@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-23 18:59:08 [2@SP-TI-A-C01]
+Interno #1: Lanzar graph
+2017-08-23 19:04:10 [2@SP-TI-A-C01]
+Interno #1: Lanzar reservation
+2017-08-23 19:11:35 [2@SP-TI-A-C01]
+Interno #1: Lanzar planningrecall
+2017-08-23 19:22:32 [2@SP-TI-A-C01]
+Interno #1: Lanzar mailgate
+2017-08-23 19:27:34 [436@SP-TI-A-C01]
+Interno #1: Lanzar slaticket
+2017-08-23 19:30:03 [@SP-TI-A-C01]
+Interno #1: Lanzar ticketrecurrent
+2017-08-23 19:31:07 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-23 19:32:35 [2@SP-TI-A-C01]
+Interno #1: Lanzar temp
+2017-08-23 19:33:10 [@SP-TI-A-C01]
+Interno #1: Lanzar mailgateerror
+2017-08-23 19:42:41 [2@SP-TI-A-C01]
+Interno #1: Lanzar contract
+2017-08-23 19:45:44 [@SP-TI-A-C01]
+Interno #1: Lanzar infocom
+2017-08-23 19:47:21 [@SP-TI-A-C01]
+Interno #1: Lanzar session
+2017-08-23 19:47:23 [@SP-TI-A-C01]
+Interno #1: Lanzar planningrecall
+2017-08-23 19:48:52 [@SP-TI-A-C01]
+Interno #1: Lanzar mailgate
+2017-08-23 19:49:16 [2@SP-TI-A-C01]
+Interno #1: Lanzar slaticket
+2017-08-23 19:49:20 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-23 19:50:36 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-23 19:51:04 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-23 19:51:49 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-23 19:52:13 [@SP-TI-A-C01]
+Interno #1: Lanzar planningrecall
+2017-08-23 19:54:22 [2@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-23 19:59:24 [2@SP-TI-A-C01]
+Interno #1: Lanzar slaticket
+2017-08-23 21:28:54 [2@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-23 21:37:47 [2@SP-TI-A-C01]
+Interno #1: Lanzar planningrecall
+2017-08-23 21:40:02 [@SP-TI-A-C01]
+Interno #1: Lanzar mailgate
+2017-08-23 21:43:14 [2@SP-TI-A-C01]
+Interno #1: Lanzar graph
+2017-08-23 21:47:49 [436@SP-TI-A-C01]
+Interno #1: Lanzar reservation
+2017-08-23 21:48:17 [2@SP-TI-A-C01]
+Interno #1: Lanzar slaticket
+2017-08-23 21:50:03 [@SP-TI-A-C01]
+Interno #1: Lanzar ticketrecurrent
+2017-08-23 21:50:59 [@SP-TI-A-C01]
+Interno #1: Lanzar temp
+2017-08-23 21:51:00 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-23 21:51:11 [@SP-TI-A-C01]
+Interno #1: Lanzar planningrecall
+2017-08-23 21:51:42 [@SP-TI-A-C01]
+Interno #1: Lanzar mailgate
+2017-08-23 21:51:53 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-23 21:53:09 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-23 21:53:57 [@SP-TI-A-C01]
+Interno #1: Lanzar slaticket
+2017-08-23 21:53:57 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-23 21:54:01 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-23 21:54:09 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-23 21:54:16 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-23 21:54:17 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-23 21:54:18 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-23 21:54:18 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-23 21:54:18 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-23 21:54:19 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-23 21:54:19 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-23 21:54:19 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-23 21:54:20 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-23 21:54:20 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-23 21:54:20 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-23 21:54:34 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-23 21:54:34 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-23 21:55:09 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-23 21:55:35 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-23 21:55:57 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-23 21:56:18 [@SP-TI-A-C01]
+Interno #1: Lanzar planningrecall
+2017-08-23 21:56:48 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-23 21:57:07 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-23 21:58:13 [@SP-TI-A-C01]
+Interno #1: Lanzar slaticket
+2017-08-23 21:59:24 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-23 22:00:51 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-23 22:01:12 [@SP-TI-A-C01]
+Interno #1: Lanzar mailgate
+2017-08-23 22:01:57 [@SP-TI-A-C01]
+Interno #1: Lanzar planningrecall
+2017-08-23 22:02:26 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-23 22:07:16 [436@SP-TI-A-C01]
+Interno #1: Lanzar slaticket
+2017-08-23 22:08:19 [2@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-23 22:09:49 [177@SP-TI-A-C01]
+Interno #1: Lanzar planningrecall
+2017-08-23 22:10:54 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-23 22:15:41 [436@SP-TI-A-C01]
+Interno #1: Lanzar mailgate
+2017-08-23 22:15:46 [2@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-23 22:18:04 [@SP-TI-A-C01]
+Interno #1: Lanzar slaticket
+2017-08-23 22:18:06 [@SP-TI-A-C01]
+Interno #1: Lanzar planningrecall
+2017-08-23 22:21:52 [2@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-23 22:23:15 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-23 22:51:39 [@SP-TI-A-C01]
+Interno #1: Lanzar slaticket
+2017-08-23 22:51:54 [@SP-TI-A-C01]
+Interno #1: Lanzar planningrecall
+2017-08-23 22:56:12 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-23 22:59:10 [@SP-TI-A-C01]
+Interno #1: Lanzar mailgate
+2017-08-23 22:59:25 [@SP-TI-A-C01]
+Interno #1: Lanzar graph
+2017-08-23 22:59:51 [@SP-TI-A-C01]
+Interno #1: Lanzar reservation
+2017-08-23 22:59:57 [438@SP-TI-A-C01]
+Interno #1: Lanzar ticketrecurrent
+2017-08-23 23:00:23 [@SP-TI-A-C01]
+Interno #1: Lanzar temp
+2017-08-23 23:00:46 [@SP-TI-A-C01]
+Interno #1: Lanzar slaticket
+2017-08-23 23:00:47 [@SP-TI-A-C01]
+Interno #1: Lanzar planningrecall
+2017-08-23 23:01:07 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-23 23:01:36 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-23 23:03:29 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-23 23:03:31 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-23 23:03:31 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-23 23:04:22 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-23 23:04:23 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-23 23:05:40 [@SP-TI-A-C01]
+Interno #1: Lanzar slaticket
+2017-08-23 23:06:09 [@SP-TI-A-C01]
+Interno #1: Lanzar planningrecall
+2017-08-23 23:07:04 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-23 23:07:26 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-23 23:07:32 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-23 23:07:46 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-23 23:22:36 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-23 23:24:56 [@SP-TI-A-C01]
+Interno #1: Lanzar mailgate
+2017-08-23 23:31:12 [@SP-TI-A-C01]
+Interno #1: Lanzar slaticket
+2017-08-23 23:31:14 [@SP-TI-A-C01]
+Interno #1: Lanzar planningrecall
+2017-08-23 23:31:16 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-23 23:31:17 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-23 23:31:17 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-23 23:36:03 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-23 23:36:28 [@SP-TI-A-C01]
+Interno #1: Lanzar mailgate
+2017-08-23 23:36:52 [@SP-TI-A-C01]
+Interno #1: Lanzar slaticket
+2017-08-23 23:36:59 [@SP-TI-A-C01]
+Interno #1: Lanzar planningrecall
+2017-08-23 23:37:09 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-23 23:37:14 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-23 23:44:00 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-23 23:44:01 [@SP-TI-A-C01]
+Interno #1: Lanzar slaticket
+2017-08-23 23:44:01 [@SP-TI-A-C01]
+Interno #1: Lanzar planningrecall
+2017-08-23 23:45:08 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-23 23:45:11 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-23 23:45:13 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-23 23:45:14 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-23 23:45:15 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-23 23:46:07 [@SP-TI-A-C01]
+Interno #1: Lanzar mailgate
+2017-08-23 23:46:07 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-23 23:46:08 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-23 23:46:08 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-23 23:46:08 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-23 23:46:10 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-23 23:46:16 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-23 23:46:41 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-23 23:53:54 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-23 16:57:07 [@SP-TI-A-C01]
+Interno #1: Lanzar slaticket
+2017-08-23 16:57:08 [@SP-TI-A-C01]
+Interno #1: Lanzar planningrecall
+2017-08-23 16:57:48 [438@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-23 17:02:26 [@SP-TI-A-C01]
+Interno #1: Lanzar mailgate
+2017-08-23 17:13:05 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-23 17:13:30 [438@SP-TI-A-C01]
+Interno #1: Lanzar graph
+2017-08-23 17:16:16 [@SP-TI-A-C01]
+Interno #1: Lanzar reservation
+2017-08-23 17:16:45 [@SP-TI-A-C01]
+Interno #1: Lanzar ticketrecurrent
+2017-08-23 17:21:02 [438@SP-TI-A-C01]
+Interno #1: Lanzar temp
+2017-08-23 17:22:09 [@SP-TI-A-C01]
+Interno #1: Lanzar slaticket
+2017-08-23 17:23:57 [@SP-TI-A-C01]
+Interno #1: Lanzar planningrecall
+2017-08-23 17:27:50 [2@SP-TI-A-C01]
+Interno #1: Lanzar mailgate
+2017-08-23 17:31:56 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-23 17:33:18 [@SP-TI-A-C01]
+Interno #1: Lanzar slaticket
+2017-08-23 17:34:27 [@SP-TI-A-C01]
+Interno #1: Lanzar planningrecall
+2017-08-23 17:35:33 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-23 17:36:39 [2@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-23 17:44:09 [436@SP-TI-A-C01]
+Interno #1: Lanzar mailgate
+2017-08-23 17:44:16 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-23 17:47:00 [2@SP-TI-A-C01]
+Interno #1: Lanzar slaticket
+2017-08-23 17:48:02 [@SP-TI-A-C01]
+Interno #1: Lanzar planningrecall
+2017-08-24 08:48:10 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-24 08:48:35 [@SP-TI-A-C01]
+Interno #1: Lanzar slaticket
+2017-08-24 08:49:11 [@SP-TI-A-C01]
+Interno #1: Lanzar planningrecall
+2017-08-24 08:49:18 [@SP-TI-A-C01]
+Interno #1: Lanzar mailgate
+2017-08-24 10:06:24 [438@SP-TI-A-C01]
+Interno #1: Lanzar graph
+2017-08-24 10:09:12 [436@SP-TI-A-C01]
+Interno #1: Lanzar reservation
+2017-08-24 10:11:40 [438@SP-TI-A-C01]
+Interno #1: Lanzar ticketrecurrent
+2017-08-24 10:37:36 [438@SP-TI-A-C01]
+Interno #1: Lanzar temp
+2017-08-24 10:39:37 [@SP-TI-A-C01]
+Interno #1: Lanzar closeticket
+2017-08-24 10:41:32 [@SP-TI-A-C01]
+Interno #1: Lanzar alertnotclosed
+2017-08-24 10:41:46 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-24 10:42:09 [@SP-TI-A-C01]
+Interno #1: Lanzar slaticket
+2017-08-24 10:42:26 [@SP-TI-A-C01]
+Interno #1: Lanzar planningrecall
+2017-08-24 10:43:00 [@SP-TI-A-C01]
+Interno #1: Lanzar mailgate
+2017-08-24 10:43:00 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-24 10:43:01 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-24 10:43:01 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-24 10:43:01 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-24 10:43:02 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-24 10:43:11 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-24 10:43:21 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-24 10:43:22 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-24 10:43:23 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-24 10:43:23 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-24 10:43:23 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-24 10:43:24 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-24 10:43:25 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-24 10:43:52 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-24 10:43:53 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-24 10:44:01 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-24 10:44:03 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-24 10:44:12 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-24 10:44:31 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-24 11:01:18 [438@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-24 11:06:22 [438@SP-TI-A-C01]
+Interno #1: Lanzar slaticket
+2017-08-24 11:11:27 [438@SP-TI-A-C01]
+Interno #1: Lanzar planningrecall
+2017-08-24 11:15:43 [436@SP-TI-A-C01]
+Interno #1: Lanzar mailgate
+2017-08-24 11:17:19 [438@SP-TI-A-C01]
+Interno #1: Lanzar createinquest
+2017-08-24 11:22:37 [438@SP-TI-A-C01]
+Interno #1: Lanzar watcher
+2017-08-24 11:27:41 [438@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-24 11:33:42 [438@SP-TI-A-C01]
+Interno #1: Lanzar graph
+2017-08-24 11:38:50 [438@SP-TI-A-C01]
+Interno #1: Lanzar reservation
+2017-08-24 11:43:08 [436@SP-TI-A-C01]
+Interno #1: Lanzar slaticket
+2017-08-24 11:44:25 [438@SP-TI-A-C01]
+Interno #1: Lanzar ticketrecurrent
+2017-08-24 11:49:46 [438@SP-TI-A-C01]
+Interno #1: Lanzar planningrecall
+2017-08-24 11:55:30 [438@SP-TI-A-C01]
+Interno #1: Lanzar mailgate
+2017-08-24 11:58:26 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-24 11:59:50 [@SP-TI-A-C01]
+Interno #1: Lanzar temp
+2017-08-24 12:05:14 [438@SP-TI-A-C01]
+Interno #1: Lanzar queuedmailclean
+2017-08-24 12:10:15 [438@SP-TI-A-C01]
+Interno #1: Lanzar slaticket
+2017-08-24 12:16:02 [436@SP-TI-A-C01]
+Interno #1: Lanzar planningrecall
+2017-08-24 12:16:41 [438@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-24 12:17:51 [@SP-TI-A-C01]
+Interno #1: Lanzar mailgate
+2017-08-24 12:18:12 [@SP-TI-A-C01]
+Interno #1: Lanzar slaticket
+2017-08-24 12:22:34 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-24 12:23:01 [@SP-TI-A-C01]
+Interno #1: Lanzar planningrecall
+2017-08-24 12:26:01 [438@SP-TI-A-C01]
+Interno #1: Lanzar slaticket
+2017-08-24 12:35:52 [4@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-24 12:36:10 [438@SP-TI-A-C01]
+Interno #1: Lanzar mailgate
+2017-08-24 12:41:06 [4@SP-TI-A-C01]
+Interno #1: Lanzar planningrecall
+2017-08-24 12:42:58 [438@SP-TI-A-C01]
+Interno #1: Lanzar slaticket
+2017-08-24 12:45:53 [@SP-TI-A-C01]
+Interno #1: Lanzar graph
+2017-08-24 12:48:12 [@SP-TI-A-C01]
+Interno #1: Lanzar mailgateerror
+2017-08-24 12:49:15 [438@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-24 12:53:33 [@SP-TI-A-C01]
+Interno #1: Lanzar reservation
+2017-08-24 12:54:28 [438@SP-TI-A-C01]
+Interno #1: Lanzar contract
+2017-08-24 12:54:30 [@SP-TI-A-C01]
+Interno #1: Lanzar ticketrecurrent
+2017-08-24 12:55:37 [@SP-TI-A-C01]
+Interno #1: Lanzar infocom
+2017-08-24 12:56:23 [@SP-TI-A-C01]
+Interno #1: Lanzar mailgate
+2017-08-24 12:57:48 [@SP-TI-A-C01]
+Interno #1: Lanzar planningrecall
+2017-08-24 14:20:34 [3@SP-TI-A-C01]
+Interno #1: Lanzar session
+2017-08-24 14:21:46 [@SP-TI-A-C01]
+Interno #1: Lanzar slaticket
+2017-08-24 14:25:47 [3@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-24 14:28:04 [438@SP-TI-A-C01]
+Interno #1: Lanzar temp
+2017-08-24 14:31:45 [3@SP-TI-A-C01]
+Interno #1: Lanzar planningrecall
+2017-08-24 14:40:10 [438@SP-TI-A-C01]
+Interno #1: Lanzar mailgate
+2017-08-24 14:48:22 [438@SP-TI-A-C01]
+Interno #1: Lanzar graph
+2017-08-24 14:48:51 [@SP-TI-A-C01]
+Interno #1: Lanzar reservation
+2017-08-24 14:48:54 [@SP-TI-A-C01]
+Interno #1: Lanzar ticketrecurrent
+2017-08-24 14:55:16 [438@SP-TI-A-C01]
+Interno #1: Lanzar slaticket
+2017-08-24 14:56:59 [3@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-24 15:16:18 [@SP-TI-A-C01]
+Interno #1: Lanzar planningrecall
+2017-08-24 15:16:33 [@SP-TI-A-C01]
+Interno #1: Lanzar mailgate
+2017-08-24 15:17:42 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-24 15:17:59 [@SP-TI-A-C01]
+Interno #1: Lanzar slaticket
+2017-08-24 15:18:09 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-24 15:19:18 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-24 15:20:37 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-24 15:36:56 [438@SP-TI-A-C01]
+Interno #1: Lanzar planningrecall
+2017-08-24 15:43:21 [438@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-24 15:43:51 [@SP-TI-A-C01]
+Interno #1: Lanzar slaticket
+2017-08-24 15:43:52 [@SP-TI-A-C01]
+Interno #1: Lanzar mailgate
+2017-08-24 15:43:53 [@SP-TI-A-C01]
+Interno #1: Lanzar temp
+2017-08-24 15:43:54 [@SP-TI-A-C01]
+Interno #1: Lanzar planningrecall
+2017-08-24 15:43:55 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-24 15:43:55 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-24 15:43:56 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-24 15:51:53 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-24 15:57:45 [436@SP-TI-A-C01]
+Interno #1: Lanzar graph
+2017-08-24 16:02:55 [438@SP-TI-A-C01]
+Interno #1: Lanzar reservation
+2017-08-24 16:04:12 [@SP-TI-A-C01]
+Interno #1: Lanzar slaticket
+2017-08-24 16:04:38 [@SP-TI-A-C01]
+Interno #1: Lanzar ticketrecurrent
+2017-08-24 16:15:33 [436@SP-TI-A-C01]
+Interno #1: Lanzar planningrecall
+2017-08-24 16:15:51 [438@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-24 16:17:09 [@SP-TI-A-C01]
+Interno #1: Lanzar mailgate
+2017-08-24 16:27:14 [@SP-TI-A-C01]
+Interno #1: Lanzar slaticket
+2017-08-24 16:28:17 [436@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-24 16:30:21 [@SP-TI-A-C01]
+Interno #1: Lanzar planningrecall
+2017-08-24 16:31:13 [438@SP-TI-A-C01]
+Interno #1: Lanzar mailgate
+2017-08-24 16:35:59 [436@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-24 16:36:18 [436@SP-TI-A-C01]
+Interno #1: Lanzar slaticket
+2017-08-24 16:36:34 [436@SP-TI-A-C01]
+Interno #1: Lanzar planningrecall
+2017-08-24 16:37:51 [438@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-24 16:38:02 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-24 16:38:05 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-24 16:38:20 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-24 16:38:56 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-24 16:39:00 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-24 16:39:59 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-24 16:41:25 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-24 16:41:43 [@SP-TI-A-C01]
+Interno #1: Lanzar mailgate
+2017-08-24 16:42:05 [@SP-TI-A-C01]
+Interno #1: Lanzar slaticket
+2017-08-24 16:42:06 [@SP-TI-A-C01]
+Interno #1: Lanzar planningrecall
+2017-08-24 16:42:43 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-24 16:47:10 [3@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-24 16:54:00 [184@SP-TI-A-C01]
+Interno #1: Lanzar temp
+2017-08-24 17:10:04 [3@SP-TI-A-C01]
+Interno #1: Lanzar slaticket
+2017-08-24 17:21:20 [@SP-TI-A-C01]
+Interno #1: Lanzar planningrecall
+2017-08-24 17:22:31 [3@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-24 17:28:01 [438@SP-TI-A-C01]
+Interno #1: Lanzar mailgate
+2017-08-24 17:32:13 [436@SP-TI-A-C01]
+Interno #1: Lanzar graph
+2017-08-24 17:40:53 [@SP-TI-A-C01]
+Interno #1: Lanzar reservation
+2017-08-24 17:49:59 [438@SP-TI-A-C01]
+Interno #1: Lanzar ticketrecurrent
+2017-08-24 17:50:13 [4@SP-TI-A-C01]
+Interno #1: Lanzar slaticket
+2017-08-24 17:59:51 [4@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-24 18:01:22 [@SP-TI-A-C01]
+Interno #1: Lanzar planningrecall
+2017-08-24 18:17:01 [@SP-TI-A-C01]
+Interno #1: Lanzar mailgate
+2017-08-24 18:17:03 [@SP-TI-A-C01]
+Interno #1: Lanzar temp
+2017-08-24 18:17:20 [@SP-TI-A-C01]
+Interno #1: Lanzar slaticket
+2017-08-24 18:34:26 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-24 18:34:43 [@SP-TI-A-C01]
+Interno #1: Lanzar planningrecall
+2017-08-24 18:35:05 [@SP-TI-A-C01]
+Interno #1: Lanzar slaticket
+2017-08-24 18:37:11 [@SP-TI-A-C01]
+Interno #1: Lanzar mailgate
+2017-08-25 09:26:22 [@SP-TI-A-C01]
+Interno #1: Lanzar graph
+2017-08-25 11:10:43 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-25 11:42:01 [@SP-TI-A-C01]
+Interno #1: Lanzar planningrecall
+2017-08-25 11:46:17 [3@SP-TI-A-C01]
+Interno #1: Lanzar reservation
+2017-08-25 12:05:24 [@SP-TI-A-C01]
+Interno #1: Lanzar slaticket
+2017-08-25 12:08:46 [@SP-TI-A-C01]
+Interno #1: Lanzar mailgate
+2017-08-25 12:19:24 [438@SP-TI-A-C01]
+Interno #1: Lanzar ticketrecurrent
+2017-08-25 12:28:21 [@SP-TI-A-C01]
+Interno #1: Lanzar temp
+2017-08-25 12:37:53 [@SP-TI-A-C01]
+Interno #1: Lanzar closeticket
+2017-08-25 12:41:49 [@SP-TI-A-C01]
+Interno #1: Lanzar alertnotclosed
+2017-08-25 14:16:13 [438@SP-TI-A-C01]
+Interno #1: Lanzar graph
+2017-08-25 14:19:13 [3@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-25 14:21:16 [438@SP-TI-A-C01]
+Interno #1: Lanzar createinquest
+2017-08-25 14:26:17 [438@SP-TI-A-C01]
+Interno #1: Lanzar watcher
+2017-08-25 14:30:53 [3@SP-TI-A-C01]
+Interno #1: Lanzar planningrecall
+2017-08-25 14:32:55 [438@SP-TI-A-C01]
+Interno #1: Lanzar queuedmailclean
+2017-08-25 14:37:44 [@SP-TI-A-C01]
+Interno #1: Lanzar slaticket
+2017-08-25 14:51:05 [@SP-TI-A-C01]
+Interno #1: Lanzar mailgate
+2017-08-25 15:15:05 [438@SP-TI-A-C01]
+Interno #1: Lanzar reservation
+2017-08-25 15:21:27 [@SP-TI-A-C01]
+Interno #1: Lanzar mailgateerror
+2017-08-25 16:07:50 [3@SP-TI-A-C01]
+Interno #1: Lanzar contract
+2017-08-25 16:12:47 [438@SP-TI-A-C01]
+Interno #1: Lanzar infocom
+2017-08-25 16:13:41 [3@SP-TI-A-C01]
+Interno #1: Lanzar ticketrecurrent
+2017-08-25 16:15:52 [@SP-TI-A-C01]
+Interno #1: Lanzar temp
+2017-08-25 16:26:21 [438@SP-TI-A-C01]
+Interno #1: Lanzar session
+2017-08-25 16:33:01 [438@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-25 16:40:07 [438@SP-TI-A-C01]
+Interno #1: Lanzar planningrecall
+2017-08-25 17:04:45 [@SP-TI-A-C01]
+Interno #1: Lanzar slaticket
+2017-08-25 17:04:47 [@SP-TI-A-C01]
+Interno #1: Lanzar mailgate
+2017-08-25 17:04:50 [@SP-TI-A-C01]
+Interno #1: Lanzar graph
+2017-08-25 17:06:37 [@SP-TI-A-C01]
+Interno #1: Lanzar reservation
+2017-08-25 17:09:27 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-25 17:10:15 [@SP-TI-A-C01]
+Interno #1: Lanzar planningrecall
+2017-08-25 17:10:49 [@SP-TI-A-C01]
+Interno #1: Lanzar slaticket
+2017-08-25 17:10:51 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-25 17:11:34 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-25 17:11:48 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-25 17:12:14 [3@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-25 17:12:17 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-25 17:12:19 [@SP-TI-A-C01]
+Interno #1: Nada que lanzar
+2017-08-25 17:54:46 [438@SP-TI-A-C01]
+Interno #1: Lanzar ticketrecurrent
+2017-08-25 18:03:05 [438@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-25 18:04:22 [436@SP-TI-A-C01]
+Interno #1: Lanzar mailgate
+2017-08-25 18:29:00 [436@SP-TI-A-C01]
+Interno #1: Lanzar slaticket
+2017-08-25 18:39:31 [436@SP-TI-A-C01]
+Interno #1: Lanzar planningrecall
+2017-08-25 18:40:24 [438@SP-TI-A-C01]
+Interno #1: Lanzar temp
+2017-08-25 18:52:03 [438@SP-TI-A-C01]
+Interno #1: Lanzar graph
+2017-08-25 19:03:39 [438@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-25 19:13:07 [436@SP-TI-A-C01]
+Interno #1: Lanzar reservation
+2017-08-25 19:18:34 [436@SP-TI-A-C01]
+Interno #1: Lanzar mailgate
+2017-08-25 19:19:29 [@SP-TI-A-C01]
+Interno #1: Lanzar slaticket
+2017-08-25 19:19:34 [@SP-TI-A-C01]
+Interno #1: Lanzar planningrecall
+2017-08-25 19:19:35 [@SP-TI-A-C01]
+Interno #1: Lanzar ticketrecurrent
+2017-08-25 19:19:36 [@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-25 19:26:48 [438@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-28 08:34:07 [@SP-TI-A-C01]
+Interno #1: Lanzar slaticket
+2017-08-28 08:34:17 [@SP-TI-A-C01]
+Interno #1: Lanzar planningrecall
+2017-08-28 08:49:25 [436@SP-TI-A-C01]
+Interno #1: Lanzar queuedmail
+2017-08-28 10:57:45 [@SP-TI-A-C01]
+Interno #1: Lanzar mailgate
+2017-08-28 11:01:08 [436@SP-TI-A-C01]
+Interno #1: Lanzar temp
+2017-08-28 11:17:33 [438@SP-TI-A-C01]
+Interno #1: Lanzar graph
+2017-08-29 23:00:27 [@SP-TI-A-C10]
+Interno #1: Lanzar reservation
+2017-08-29 23:03:25 [@SP-TI-A-C10]
+Interno #1: Lanzar ticketrecurrent
+2017-08-31 18:13:11 [@SP-TI-A-C10]
+Interno #1: Lanzar closeticket
+2017-08-31 18:13:31 [@SP-TI-A-C10]
+Interno #1: Lanzar alertnotclosed
+2017-08-31 18:13:51 [@SP-TI-A-C10]
+Interno #1: Lanzar createinquest
+2017-08-31 18:14:28 [@SP-TI-A-C10]
+Interno #1: Lanzar watcher
+2017-08-31 18:14:47 [@SP-TI-A-C10]
+Interno #1: Lanzar queuedmailclean
+2017-08-31 18:15:32 [@SP-TI-A-C10]
+Interno #1: Lanzar mailgateerror
+2017-08-31 18:17:09 [@SP-TI-A-C10]
+Interno #1: Lanzar contract
+2017-08-31 18:21:56 [@SP-TI-A-C10]
+Interno #1: Lanzar infocom
+2017-08-31 18:22:10 [@SP-TI-A-C10]
+Interno #1: Lanzar session
+2017-08-31 18:25:03 [@SP-TI-A-C10]
+Interno #1: Lanzar slaticket
+2017-08-31 18:25:08 [@SP-TI-A-C10]
+Interno #1: Lanzar planningrecall
+2017-08-31 18:25:47 [@SP-TI-A-C10]
+No se puede obtener el lock de la BD
+2017-08-31 18:25:47 [@SP-TI-A-C10]
+Interno #1: Lanzar queuedmail
+2017-08-31 18:26:32 [@SP-TI-A-C10]
+Interno #1: Lanzar mailgate
+2017-08-31 18:28:31 [@SP-TI-A-C10]
+Interno #1: Lanzar temp
+2017-08-31 18:28:45 [@SP-TI-A-C10]
+Interno #1: Lanzar graph
+2017-08-31 18:29:00 [@SP-TI-A-C10]
+Interno #1: Lanzar optimize
+2017-08-31 18:29:43 [@SP-TI-A-C10]
+Interno #1: Lanzar reservation
+2017-09-01 00:27:51 [@SP-TI-A-C10]
+Interno #1: Lanzar ticketrecurrent
+2017-09-01 00:33:20 [@SP-TI-A-C10]
+Interno #1: Lanzar queuedmail
+2017-09-01 00:35:55 [@SP-TI-A-C10]
+Interno #1: Lanzar slaticket
+2017-09-01 00:35:59 [@SP-TI-A-C10]
+Interno #1: Lanzar planningrecall
+2017-09-01 00:37:21 [@SP-TI-A-C10]
+Interno #1: Lanzar mailgate

@@ -1,0 +1,356 @@
+2017-08-22 17:33:37 [@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para post-only desde la IP ::1
+2017-08-22 17:35:15 [3@SP-TI-A-C01]
+[login] 3: post-only inicia sesión desde la IP ::1
+2017-08-22 17:50:39 [2@SP-TI-A-C01]
+[login] 3: glpi inicia sesión desde la IP ::1
+2017-08-22 18:15:43 [@SP-TI-A-C01]
+[login] 3: post-only inicia sesión desde la IP 127.0.0.1
+2017-08-22 18:55:46 [@SP-TI-A-C01]
+[login] 3: fmendoza inicia sesión desde la IP 127.0.0.1
+2017-08-22 20:06:33 [@SP-TI-A-C01]
+[login] 3: fmendoza inicia sesión desde la IP 127.0.0.1
+2017-08-22 21:25:53 [2@SP-TI-A-C01]
+[login] 3: glpi inicia sesión desde la IP ::1
+2017-08-22 22:10:54 [@SP-TI-A-C01]
+[login] 3: fmendoza inicia sesión desde la IP 127.0.0.1
+2017-08-22 22:12:39 [@SP-TI-A-C01]
+[login] 3: fmendoza inicia sesión desde la IP 127.0.0.1
+2017-08-22 22:20:19 [@SP-TI-A-C01]
+[login] 3: fmendoza inicia sesión desde la IP 127.0.0.1
+2017-08-22 22:45:29 [@SP-TI-A-C01]
+[login] 3: glpi inicia sesión desde la IP ::1
+2017-08-22 22:57:45 [@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para fmendoza desde la IP 127.0.0.1
+2017-08-22 22:57:55 [@SP-TI-A-C01]
+[login] 3: fmendoza inicia sesión desde la IP 127.0.0.1
+2017-08-23 00:09:16 [@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para fmendoza desde la IP 127.0.0.1
+2017-08-23 00:12:07 [@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para fmendoza@saludpol.gob.pe desde la IP 127.0.0.1
+2017-08-23 00:20:24 [@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para fmendoza@saludpol.local desde la IP 127.0.0.1
+2017-08-23 00:44:31 [@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para lescalerar desde la IP 127.0.0.1
+2017-08-23 00:44:55 [@SP-TI-A-C01]
+[login] 3: lescalerar inicia sesión desde la IP 127.0.0.1
+2017-08-23 00:49:25 [@SP-TI-A-C01]
+[login] 3: fmendoza inicia sesión desde la IP 127.0.0.1
+2017-08-23 00:50:01 [@SP-TI-A-C01]
+[login] 3: dalvarezc inicia sesión desde la IP 127.0.0.1
+2017-08-23 15:34:21 [@SP-TI-A-C01]
+[login] 3: glpi inicia sesión desde la IP ::1
+2017-08-23 15:46:39 [@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para fmendoza desde la IP 127.0.0.1
+2017-08-23 15:50:40 [@SP-TI-A-C01]
+[login] 3: fmendoza inicia sesión desde la IP 127.0.0.1
+2017-08-23 16:17:39 [@SP-TI-A-C01]
+[login] 3: post-only inicia sesión desde la IP 127.0.0.1
+2017-08-23 17:23:51 [@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para post-only desde la IP 127.0.0.1
+2017-08-23 17:24:03 [@SP-TI-A-C01]
+[login] 3: post-only inicia sesión desde la IP 127.0.0.1
+2017-08-23 17:32:18 [@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para post-only desde la IP 127.0.0.1
+2017-08-23 17:32:53 [@SP-TI-A-C01]
+[login] 3: post-only inicia sesión desde la IP 127.0.0.1
+2017-08-23 17:57:56 [@SP-TI-A-C01]
+[login] 3: post-only inicia sesión desde la IP 127.0.0.1
+2017-08-23 17:59:29 [@SP-TI-A-C01]
+[login] 3: Post-only inicia sesión desde la IP 192.168.1.253
+2017-08-23 19:15:35 [@SP-TI-A-C01]
+[login] 3: fmendoza inicia sesión desde la IP 192.168.1.96
+2017-08-23 19:31:23 [@SP-TI-A-C01]
+[login] 3: lescalerar inicia sesión desde la IP 192.168.1.85
+2017-08-23 19:45:12 [@SP-TI-A-C01]
+[login] 3: fmendoza inicia sesión desde la IP 192.168.1.96
+2017-08-23 19:45:48 [@SP-TI-A-C01]
+[login] 3: fmendoza inicia sesión desde la IP 192.168.1.96
+2017-08-23 19:53:07 [@SP-TI-A-C01]
+[login] 3: fmendoza inicia sesión desde la IP 192.168.1.96
+2017-08-23 21:40:13 [@SP-TI-A-C01]
+[login] 3: fmendoza inicia sesión desde la IP 192.168.1.96
+2017-08-23 21:50:20 [@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para lescalerar@saludpol.gob.pe desde la IP 192.168.1.85
+2017-08-23 21:51:08 [@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para fmendoza desde la IP 192.168.1.96
+2017-08-23 21:52:15 [@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para lescalerar@saludpol.gob.pe desde la IP 192.168.1.85
+2017-08-23 21:53:21 [@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para lescalerar@saludpol.gob.pe desde la IP 192.168.1.85
+2017-08-23 21:53:59 [@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para json@json.com desde la IP ::1
+2017-08-23 21:54:04 [@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para json@json.com desde la IP ::1
+2017-08-23 21:54:31 [@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para gwgwgw desde la IP 192.168.1.96
+2017-08-23 21:55:29 [@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para lescalerar@saludpol.gob.pe desde la IP 192.168.0.242
+2017-08-23 21:56:07 [@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para fjewfjkljfdlk desde la IP 192.168.0.242
+2017-08-23 21:56:38 [@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para lescalerar@saludpol.gob.pe desde la IP 192.168.1.85
+2017-08-23 21:58:09 [@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para rrodriguez desde la IP 192.168.0.242
+2017-08-23 21:59:46 [@SP-TI-A-C01]
+[login] 3: glpi inicia sesión desde la IP ::1
+2017-08-23 22:00:08 [@SP-TI-A-C01]
+[login] 3: fmendoza inicia sesión desde la IP 192.168.1.96
+2017-08-23 22:01:11 [@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para lescalerar@saludpol.gob.pe desde la IP 192.168.1.85
+2017-08-23 22:02:22 [@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para lescalerar desde la IP 192.168.1.85
+2017-08-23 22:02:34 [@SP-TI-A-C01]
+[login] 3: lescalerar inicia sesión desde la IP 192.168.1.85
+2017-08-23 22:18:28 [@SP-TI-A-C01]
+[login] 3: fmendoza inicia sesión desde la IP 192.168.1.96
+2017-08-23 22:23:25 [@SP-TI-A-C01]
+[login] 3: administrador inicia sesión desde la IP ::1
+2017-08-23 22:51:45 [@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para fsdfsdfsdfsdfs desde la IP 192.168.1.85
+2017-08-23 22:58:31 [@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para  desde la IP 192.168.1.85
+2017-08-23 22:59:16 [@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para werwrwerwer desde la IP 192.168.1.85
+2017-08-23 22:59:36 [@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para  desde la IP 192.168.1.85
+2017-08-23 22:59:57 [@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para yttertewqttwtewrter desde la IP 192.168.1.85
+2017-08-23 23:00:26 [@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para werwrwer desde la IP 192.168.1.85
+2017-08-23 23:00:57 [@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para yjgjhgjh desde la IP 192.168.0.242
+2017-08-23 23:01:14 [@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para flsdñ{flsdñflsdf desde la IP 192.168.1.85
+2017-08-23 23:01:33 [@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para dasd desde la IP 192.168.0.242
+2017-08-23 23:01:40 [@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para sdfsdfsdfsdfsfd desde la IP 192.168.1.85
+2017-08-23 23:03:48 [@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para ffasf desde la IP 192.168.1.96
+2017-08-23 23:04:28 [@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para ggfgg desde la IP 192.168.1.96
+2017-08-23 23:06:37 [@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para fmendoza desde la IP 192.168.1.85
+2017-08-23 23:06:56 [@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para fmendoza desde la IP 192.168.1.85
+2017-08-23 23:07:14 [@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para dfwssdfdff desde la IP 192.168.1.85
+2017-08-23 23:07:40 [@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para lescalerar desde la IP 192.168.1.85
+2017-08-23 23:07:52 [@SP-TI-A-C01]
+[login] 3: lescalerar inicia sesión desde la IP 192.168.1.85
+2017-08-23 23:46:22 [@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para dasdsa desde la IP 192.168.1.96
+2017-08-23 16:57:13 [@SP-TI-A-C01]
+[login] 3: fmendoza inicia sesión desde la IP 192.168.1.96
+2017-08-23 17:02:34 [@SP-TI-A-C01]
+[login] 3: lescalerar inicia sesión desde la IP 192.168.1.85
+2017-08-23 17:13:09 [@SP-TI-A-C01]
+[login] 3: fmendoza inicia sesión desde la IP 192.168.1.96
+2017-08-23 17:16:30 [@SP-TI-A-C01]
+[login] 3: fmendoza inicia sesión desde la IP 192.168.1.96
+2017-08-23 17:22:13 [@SP-TI-A-C01]
+[login] 3: glpi inicia sesión desde la IP ::1
+2017-08-23 17:23:45 [@SP-TI-A-C01]
+[login] 3: fmendoza inicia sesión desde la IP 192.168.1.96
+2017-08-23 17:27:11 [@SP-TI-A-C01]
+[login] 3: fmendoza inicia sesión desde la IP 192.168.1.96
+2017-08-23 17:32:03 [@SP-TI-A-C01]
+[login] 3: tech1 inicia sesión desde la IP 192.168.1.96
+2017-08-23 17:33:22 [@SP-TI-A-C01]
+[login] 3: fmendoza inicia sesión desde la IP 192.168.1.96
+2017-08-23 17:34:32 [@SP-TI-A-C01]
+[login] 3: tech1 inicia sesión desde la IP 192.168.1.96
+2017-08-23 17:35:37 [@SP-TI-A-C01]
+[login] 3: FMENDOZA inicia sesión desde la IP 192.168.1.96
+2017-08-23 17:44:21 [@SP-TI-A-C01]
+[login] 3: tech1 inicia sesión desde la IP 192.168.1.96
+2017-08-23 17:48:06 [@SP-TI-A-C01]
+[login] 3: FMENDOZA inicia sesión desde la IP 192.168.1.96
+2017-08-24 08:49:23 [@SP-TI-A-C01]
+[login] 3: fmendoza inicia sesión desde la IP 192.168.1.96
+2017-08-24 08:49:48 [@SP-TI-A-C01]
+[login] 3: administrador inicia sesión desde la IP 192.168.1.96
+2017-08-24 10:40:32 [@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para dasdsadad desde la IP 192.168.1.85
+2017-08-24 10:40:36 [@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para  desde la IP 192.168.1.85
+2017-08-24 10:40:44 [@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para  desde la IP 192.168.1.85
+2017-08-24 10:40:46 [@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para  desde la IP 192.168.1.85
+2017-08-24 10:40:46 [@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para  desde la IP 192.168.1.85
+2017-08-24 10:40:48 [@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para  desde la IP 192.168.1.85
+2017-08-24 10:40:49 [@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para  desde la IP 192.168.1.85
+2017-08-24 10:40:50 [@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para  desde la IP 192.168.1.85
+2017-08-24 10:40:54 [@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para  desde la IP 192.168.1.85
+2017-08-24 10:41:04 [@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para  desde la IP 192.168.1.85
+2017-08-24 10:41:05 [@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para  desde la IP 192.168.1.85
+2017-08-24 10:41:05 [@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para  desde la IP 192.168.1.85
+2017-08-24 10:41:14 [@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para  desde la IP 192.168.1.85
+2017-08-24 10:41:16 [@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para  desde la IP 192.168.1.85
+2017-08-24 10:41:17 [@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para  desde la IP 192.168.1.85
+2017-08-24 10:41:18 [@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para  desde la IP 192.168.1.85
+2017-08-24 10:41:18 [@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para  desde la IP 192.168.1.85
+2017-08-24 10:41:41 [@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para dfsdfsdfsdf desde la IP 192.168.1.85
+2017-08-24 10:41:42 [@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para  desde la IP 192.168.1.85
+2017-08-24 10:41:52 [@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para  desde la IP 192.168.1.85
+2017-08-24 10:42:20 [@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para drsrser desde la IP 192.168.1.85
+2017-08-24 10:42:23 [@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para  desde la IP 192.168.1.85
+2017-08-24 10:44:08 [@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para dasdas desde la IP 192.168.1.96
+2017-08-24 10:44:23 [@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para dasda desde la IP 192.168.1.96
+2017-08-24 11:05:44 [@SP-TI-A-C01]
+[login] 3: fmendoza inicia sesión desde la IP 192.168.1.96
+2017-08-24 11:43:14 [436@SP-TI-A-C01]
+[login] 3: fmendoza inicia sesión desde la IP 192.168.1.96
+2017-08-24 11:58:33 [@SP-TI-A-C01]
+[login] 3: glpi inicia sesión desde la IP 192.168.1.96
+2017-08-24 12:00:07 [@SP-TI-A-C01]
+[login] 3: administrador inicia sesión desde la IP 192.168.1.96
+2017-08-24 12:17:55 [@SP-TI-A-C01]
+[login] 3: fmendoza inicia sesión desde la IP 192.168.1.96
+2017-08-24 12:21:09 [@SP-TI-A-C01]
+[login] 3: post-only inicia sesión desde la IP 192.168.1.96
+2017-08-24 12:22:41 [@SP-TI-A-C01]
+[login] 3: fmendoza inicia sesión desde la IP 192.168.1.96
+2017-08-24 12:23:07 [@SP-TI-A-C01]
+[login] 3: tech1 inicia sesión desde la IP 192.168.1.96
+2017-08-24 12:45:59 [@SP-TI-A-C01]
+[login] 3: tech1 inicia sesión desde la IP 192.168.1.96
+2017-08-24 12:48:16 [@SP-TI-A-C01]
+[login] 3: tech1 inicia sesión desde la IP 192.168.1.96
+2017-08-24 12:53:40 [@SP-TI-A-C01]
+[login] 3: post-only inicia sesión desde la IP 192.168.1.96
+2017-08-24 12:54:39 [@SP-TI-A-C01]
+[login] 3: post-only inicia sesión desde la IP 192.168.1.96
+2017-08-24 12:55:44 [@SP-TI-A-C01]
+[login] 3: post-only inicia sesión desde la IP 192.168.1.96
+2017-08-24 12:56:29 [@SP-TI-A-C01]
+[login] 3: post-only inicia sesión desde la IP 192.168.1.96
+2017-08-24 12:57:55 [@SP-TI-A-C01]
+[login] 3: post-only inicia sesión desde la IP 192.168.1.96
+2017-08-24 14:22:11 [@SP-TI-A-C01]
+[login] 3: administrador inicia sesión desde la IP 192.168.1.96
+2017-08-24 14:49:04 [@SP-TI-A-C01]
+[login] 3: post-only inicia sesión desde la IP 192.168.1.96
+2017-08-24 15:16:29 [@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para ebricenov desde la IP 192.168.0.162
+2017-08-24 15:18:19 [@SP-TI-A-C01]
+[login] 3: post-only inicia sesión desde la IP 192.168.0.162
+2017-08-24 15:19:26 [@SP-TI-A-C01]
+[login] 3: fmendoza inicia sesión desde la IP 192.168.0.162
+2017-08-24 15:43:59 [@SP-TI-A-C01]
+[login] 3: fmendoza inicia sesión desde la IP 192.168.1.96
+2017-08-24 15:51:59 [@SP-TI-A-C01]
+[login] 3: fmendoza inicia sesión desde la IP 192.168.1.96
+2017-08-24 16:04:35 [@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para administrador desde la IP 192.168.1.96
+2017-08-24 16:04:49 [@SP-TI-A-C01]
+[login] 3: Administrador inicia sesión desde la IP 192.168.1.96
+2017-08-24 16:17:13 [@SP-TI-A-C01]
+[login] 3: fmendoza inicia sesión desde la IP 192.168.1.96
+2017-08-24 16:27:49 [@SP-TI-A-C01]
+[login] 3: fmendoza inicia sesión desde la IP 192.168.1.96
+2017-08-24 16:30:29 [@SP-TI-A-C01]
+[login] 3: prueba inicia sesión desde la IP 192.168.1.96
+2017-08-24 16:36:32 [436@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para prueba desde la IP 192.168.1.96
+2017-08-24 16:36:38 [436@SP-TI-A-C01]
+[login] 3: prueba inicia sesión desde la IP 192.168.1.96
+2017-08-24 16:39:23 [@SP-TI-A-C01]
+[login] 3: jsantistebanv inicia sesión desde la IP 192.168.1.96
+2017-08-24 16:48:18 [@SP-TI-A-C01]
+[login] 3: administrador inicia sesión desde la IP 192.168.1.96
+2017-08-24 17:25:26 [@SP-TI-A-C01]
+[login] 3: fmendoza inicia sesión desde la IP 192.168.1.96
+2017-08-24 17:41:02 [@SP-TI-A-C01]
+[login] 3: tech1 inicia sesión desde la IP 192.168.1.96
+2017-08-24 18:01:45 [@SP-TI-A-C01]
+[login] 3: jsantistebanv inicia sesión desde la IP 192.168.1.96
+2017-08-24 18:17:15 [@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para fmendoza desde la IP 192.168.1.96
+2017-08-24 18:17:28 [@SP-TI-A-C01]
+[login] 3: fmendoza inicia sesión desde la IP 192.168.1.96
+2017-08-24 18:34:40 [@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para fmendoza desde la IP 192.168.1.93
+2017-08-24 18:34:56 [@SP-TI-A-C01]
+[login] 3: fmendoza inicia sesión desde la IP 192.168.1.93
+2017-08-25 09:47:21 [@SP-TI-A-C01]
+[login] 3: administrador inicia sesión desde la IP 192.168.1.96
+2017-08-25 11:42:10 [@SP-TI-A-C01]
+[login] 3: Prueba inicia sesión desde la IP 192.168.1.251
+2017-08-25 12:05:34 [@SP-TI-A-C01]
+[login] 3: prueba inicia sesión desde la IP 192.168.1.96
+2017-08-25 12:08:55 [@SP-TI-A-C01]
+[login] 3: Prueba inicia sesión desde la IP 192.168.1.251
+2017-08-25 16:42:16 [@SP-TI-A-C01]
+[login] 3: jsantistebanv inicia sesión desde la IP 192.168.1.96
+2017-08-25 17:05:22 [@SP-TI-A-C01]
+[login] 3: prueba inicia sesión desde la IP 192.168.1.96
+2017-08-25 17:06:51 [@SP-TI-A-C01]
+[login] 3: lescalerar inicia sesión desde la IP 192.168.1.85
+2017-08-25 17:11:45 [@SP-TI-A-C01]
+[login] 3: Inicio de sesión fallido para administrador desde la IP 192.168.1.96
+2017-08-25 17:11:58 [@SP-TI-A-C01]
+[login] 3: administrador inicia sesión desde la IP 192.168.1.96
+2017-08-25 17:53:52 [@SP-TI-A-C01]
+[login] 3: fmendoza inicia sesión desde la IP 192.168.1.96
+2017-08-25 19:19:46 [@SP-TI-A-C01]
+[login] 3: administrador inicia sesión desde la IP 192.168.1.96
+2017-08-28 08:34:26 [@SP-TI-A-C01]
+[login] 3: fmendoza inicia sesión desde la IP 192.168.1.96
+2017-08-28 10:57:57 [@SP-TI-A-C01]
+[login] 3: administrador inicia sesión desde la IP 192.168.1.96
+2017-08-29 23:00:35 [@SP-TI-A-C10]
+[login] 3: prueba inicia sesión desde la IP ::1
+2017-08-29 23:03:34 [@SP-TI-A-C10]
+[login] 3: Administrador inicia sesión desde la IP ::1
+2017-08-31 18:13:23 [@SP-TI-A-C10]
+[login] 3: Inicio de sesión fallido para fmendoza desde la IP 192.168.1.93
+2017-08-31 18:13:48 [@SP-TI-A-C10]
+[login] 3: Inicio de sesión fallido para fmendoza desde la IP 192.168.1.93
+2017-08-31 18:14:18 [@SP-TI-A-C10]
+[login] 3: Inicio de sesión fallido para fmendoza desde la IP 192.168.1.93
+2017-08-31 18:14:56 [@SP-TI-A-C10]
+[login] 3: Inicio de sesión fallido para fmendoza desde la IP 192.168.1.96
+2017-08-31 18:16:01 [@SP-TI-A-C10]
+[login] 3: prueba inicia sesión desde la IP 192.168.1.96
+2017-08-31 18:17:20 [@SP-TI-A-C10]
+[login] 3: administrador inicia sesión desde la IP 192.168.1.96
+2017-08-31 18:22:07 [@SP-TI-A-C10]
+[login] 3: Inicio de sesión fallido para fmendoza desde la IP 192.168.1.96
+2017-08-31 18:22:48 [@SP-TI-A-C10]
+[login] 3: fmendoza inicia sesión desde la IP 192.168.1.96
+2017-08-31 18:25:56 [@SP-TI-A-C10]
+[login] 3: administrador inicia sesión desde la IP 192.168.1.96
+2017-08-31 18:28:57 [@SP-TI-A-C10]
+[login] 3: Inicio de sesión fallido para fmendoza desde la IP 192.168.1.93
+2017-08-31 18:29:13 [@SP-TI-A-C10]
+[login] 3: fmendoza inicia sesión desde la IP 192.168.1.93
+2017-09-01 00:28:25 [@SP-TI-A-C10]
+[login] 3: fmendoza inicia sesión desde la IP 192.168.1.243
+2017-09-01 00:33:34 [@SP-TI-A-C10]
+[login] 3: fmendoza inicia sesión desde la IP 192.168.1.93
+2017-09-01 00:37:31 [@SP-TI-A-C10]
+[login] 3: Administrador inicia sesión desde la IP 192.168.1.93
