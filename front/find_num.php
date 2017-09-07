@@ -49,7 +49,7 @@ header("Content-Type: text/html; charset=UTF-8");
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>SIST_INCIDENCIAS</title>
+<title>Mesa de Ayuda de Tecnología de la Información</title>
 
 <?php
 // Appel CSS
