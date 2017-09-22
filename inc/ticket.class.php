@@ -3310,18 +3310,18 @@ class Ticket extends CommonITILObject {
 
          echo "</td></tr>";
       }
-      if (($_SESSION["glpiactiveprofile"]["helpdesk_hardware"] != 0)
-          && (count($_SESSION["glpiactiveprofile"]["helpdesk_item_type"]))) {
-         if (!$tt->isHiddenField('items_id')) {
-            echo "<tr class='tab_bg_1'>";
-            echo "<td>".sprintf(__('%1$s%2$s'), __('Hardware type'),
-                                $tt->getMandatoryMark('items_id'))."</td>";
-            echo "<td>";
-            $options['_canupdate'] = Session::haveRight('ticket', CREATE);
-            Item_Ticket::itemAddForm($this, $options);
-            echo "</td></tr>";
-         }
-      }
+//      if (($_SESSION["glpiactiveprofile"]["helpdesk_hardware"] != 0)
+//          && (count($_SESSION["glpiactiveprofile"]["helpdesk_item_type"]))) {
+//         if (!$tt->isHiddenField('items_id')) {
+//            echo "<tr class='tab_bg_1'>";
+//            echo "<td>".sprintf(__('%1$s%2$s'), __('Hardware type'),
+//                                $tt->getMandatoryMark('items_id'))."</td>";
+//            echo "<td>";
+//            $options['_canupdate'] = Session::haveRight('ticket', CREATE);
+//            Item_Ticket::itemAddForm($this, $options);
+//            echo "</td></tr>";
+//         }
+//      }
 
       if (!$tt->isHiddenField('locations_id')) {
          echo "<tr class='tab_bg_1'><td>";
@@ -3331,52 +3331,52 @@ class Ticket extends CommonITILObject {
          echo "</td></tr>";
       }
 
-      if (!$tt->isHiddenField('_users_id_observer')
-          || $tt->isPredefinedField('_users_id_observer')) {
-         echo "<tr class='tab_bg_1'>";
-         echo "<td>".sprintf(__('%1$s%2$s'), _n('Watcher', 'Watchers', 2),
-                             $tt->getMandatoryMark('_users_id_observer'))."</td>";
-         echo "<td>";
-         $options['_right'] = "all";
-
-         if (!$tt->isHiddenField('_users_id_observer')) {
-            // Observer
-
-            if($tt->isPredefinedField('_users_id_observer')
-               && !is_array($options['_users_id_observer'])) {
-
-               //convert predefined value to array
-               $options['_users_id_observer'] = array($options['_users_id_observer']);
-               $options['_users_id_observer_notif']['use_notification'] =
-                  array($options['_users_id_observer_notif']['use_notification']);
-
-               // add new line to permit adding more observers
-               $options['_users_id_observer'][1] = 0;
-               $options['_users_id_observer_notif']['use_notification'][1] = 1;
-            }
-
-
-            echo "<div class='actor_single first-actor'>";
-            if (isset($options['_users_id_observer'])) {
-               $observers = $options['_users_id_observer'];
-               foreach($observers as $index_observer => $observer) {
-                  $options = array_merge($options, array('_user_index' => $index_observer));
-                  self::showFormHelpdeskObserver($options);
-               }
-            }
-            echo "</div>";
-
-
-         } else { // predefined value
-           if (isset($options["_users_id_observer"]) && $options["_users_id_observer"]) {
-               echo self::getActorIcon('user', CommonITILActor::OBSERVER)."&nbsp;";
-               echo Dropdown::getDropdownName("glpi_users", $options["_users_id_observer"]);
-               echo "<input type='hidden' name='_users_id_observer' value=\"".
-                      $options["_users_id_observer"]."\">";
-           }
-         }
-         echo "</td></tr>";
-      }
+//      if (!$tt->isHiddenField('_users_id_observer')
+//          || $tt->isPredefinedField('_users_id_observer')) {
+//         echo "<tr class='tab_bg_1'>";
+//         echo "<td>".sprintf(__('%1$s%2$s'), _n('Watcher', 'Watchers', 2),
+//                             $tt->getMandatoryMark('_users_id_observer'))."</td>";
+//         echo "<td>";
+//         $options['_right'] = "all";
+//
+//         if (!$tt->isHiddenField('_users_id_observer')) {
+//            // Observer
+//
+//            if($tt->isPredefinedField('_users_id_observer')
+//               && !is_array($options['_users_id_observer'])) {
+//
+//               //convert predefined value to array
+//               $options['_users_id_observer'] = array($options['_users_id_observer']);
+//               $options['_users_id_observer_notif']['use_notification'] =
+//                  array($options['_users_id_observer_notif']['use_notification']);
+//
+//               // add new line to permit adding more observers
+//               $options['_users_id_observer'][1] = 0;
+//               $options['_users_id_observer_notif']['use_notification'][1] = 1;
+//            }
+//
+//
+//            echo "<div class='actor_single first-actor'>";
+//            if (isset($options['_users_id_observer'])) {
+//               $observers = $options['_users_id_observer'];
+//               foreach($observers as $index_observer => $observer) {
+//                  $options = array_merge($options, array('_user_index' => $index_observer));
+//                  self::showFormHelpdeskObserver($options);
+//               }
+//            }
+//            echo "</div>";
+//
+//
+//         } else { // predefined value
+//           if (isset($options["_users_id_observer"]) && $options["_users_id_observer"]) {
+//               echo self::getActorIcon('user', CommonITILActor::OBSERVER)."&nbsp;";
+//               echo Dropdown::getDropdownName("glpi_users", $options["_users_id_observer"]);
+//               echo "<input type='hidden' name='_users_id_observer' value=\"".
+//                      $options["_users_id_observer"]."\">";
+//           }
+//         }
+//         echo "</td></tr>";
+//      }
 
 
       if (!$tt->isHiddenField('name')
@@ -3998,31 +3998,32 @@ class Ticket extends CommonITILObject {
       echo "</td><td colspan='2'></td></tr>";
 
       // SLTs
-      echo "<tr class='tab_bg_1'>";
-      echo "<th width='$colsize1%'>".$tt->getBeginHiddenFieldText('time_to_own');
-      if (!$ID) {
-         printf(__('%1$s%2$s'), __('Time to own'), $tt->getMandatoryMark('time_to_own'));
-      } else {
-         _e('Time to own');
-      }
-      echo $tt->getEndHiddenFieldText('time_to_own');
-      echo "</th>";
-      echo "<td width='$colsize2%' class='nopadding'>";
-      $slt = new SLT();
-      $slt->showSltForTicket($this, SLT::TTO, $tt, $canupdate);
-      echo "</td>";
-      echo "<th width='$colsize3%'>".$tt->getBeginHiddenFieldText('due_date');
-      if (!$ID) {
-         printf(__('%1$s%2$s'), __('Time to resolve'), $tt->getMandatoryMark('due_date'));
-      } else {
-         _e('Time to resolve');
-      }
-      echo $tt->getEndHiddenFieldText('due_date');
-      echo "</th>";
-      echo "<td width='$colsize4%' class='nopadding'>";
-      $slt->showSltForTicket($this, SLT::TTR, $tt, $canupdate);
-      echo "</td>";
-      echo "</tr>";
+      
+                echo "<tr class='tab_bg_1'>";
+                echo "<th width='$colsize1%'>".$tt->getBeginHiddenFieldText('time_to_own');
+                if (!$ID) {
+                   printf(__('%1$s%2$s'), __('Time to own'), $tt->getMandatoryMark('time_to_own'));
+                } else {
+                   _e('Time to own');
+                }
+                echo $tt->getEndHiddenFieldText('time_to_own');
+                echo "</th>";
+                echo "<td width='$colsize2%' class='nopadding'>";
+                $slt = new SLT();
+                $slt->showSltForTicket($this, SLT::TTO, $tt, $canupdate);
+                echo "</td>";
+                echo "<th width='$colsize3%'>".$tt->getBeginHiddenFieldText('due_date');
+                if (!$ID) {
+                   printf(__('%1$s%2$s'), __('Time to resolve'), $tt->getMandatoryMark('due_date'));
+                } else {
+                   _e('Time to resolve');
+                }
+                echo $tt->getEndHiddenFieldText('due_date');
+                echo "</th>";
+                echo "<td width='$colsize4%' class='nopadding'>";
+                $slt->showSltForTicket($this, SLT::TTR, $tt, $canupdate);
+                echo "</td>";
+                echo "</tr>";
 
       if ($ID) {
          echo "<tr class='tab_bg_1'>";
