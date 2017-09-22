@@ -642,7 +642,7 @@ class Ticket extends CommonITILObject {
             if ($_SESSION['glpiticket_timeline']) {
                $timeline    = $item->getTimelineItems();
                $nb_elements = count($timeline);
-               $ong[1]      = __("Processing ticket")." <sup class='tab_nb'>$nb_elements</sup>";
+               $ong[1]      = __("Procesar Ticket")." <sup class='tab_nb'>$nb_elements</sup>";
             }
 
             if (!$_SESSION['glpiticket_timeline']
@@ -5173,7 +5173,7 @@ class Ticket extends CommonITILObject {
 
       if ($_SESSION["glpiactiveprofile"]["interface"] != "central") {
          echo "<a href=\"".$CFG_GLPI["root_doc"]."/front/helpdesk.public.php?create_ticket=1\">".
-                __('Create a ticket')."&nbsp;<img src='".$CFG_GLPI["root_doc"].
+                __('Registrar un incidente')."&nbsp;<img src='".$CFG_GLPI["root_doc"].
                 "/pics/menu_add.png' title=\"". __s('Add')."\" alt=\"".__s('Add')."\"></a>";
       } else {
          echo "<a href=\"".$CFG_GLPI["root_doc"]."/front/ticket.php?".
